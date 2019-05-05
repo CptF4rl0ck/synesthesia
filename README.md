@@ -1,2 +1,2 @@
 # Synesthesia
-Official repository for the computer game "Synesthesia"
+Official repository for the mobile app "Synesthesia"
